@@ -1,13 +1,5 @@
 # HUANANZHI X99-TF GAMING
 
-<div style="text-align:center">
-<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
-  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/PayPal.png" alt="Donate with PayPal" />
-</a>
-<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
-  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/QR-PayPal.png" alt="Donate with PayPal" />
-</a></div>
-
 * ### BIOS updates will be no longer be released for this motherboard.
 
 * ##### (UEFI Only / Legacy Not Supported)
