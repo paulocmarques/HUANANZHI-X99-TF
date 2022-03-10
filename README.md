@@ -1,13 +1,5 @@
 # HUANANZHI X99-TF GAMING
 
-<div style="text-align:center">
-<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
-  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/PayPal.png" alt="Donate with PayPal" />
-</a>
-<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
-  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/QR-PayPal.png" alt="Donate with PayPal" />
-</a></div>
-
 * ### BIOS updates will be no longer be released for this motherboard.
 
 * ##### (UEFI Only / Legacy Not Supported)
@@ -67,7 +59,7 @@ MBEx, Cipher Transport Layer TLS (CVE-2017-5689 & CVE-2018-3616), PTT, NFC, RPAT
 7) Hidden BIOS items that do not control.
 
   How to update Firmware:
-1) Burn the Firmware to programmer device. (e.g. EZP-2019)
+1) Burn the Firmware to programmer device. (e.g. EZP-2019, CH341A...) [Instruction for CH341A](https://www.miyconst.com/Blog/View/2086/ch341a-minimal-usage-guide-how-to-read-and-write-a-motherboard-bios)
 2) Clear CMOS.
 3) After restart go to the BIOS setting & use 'Restore Default' / 'F10' / 'Enter'
 4) Configure RAM timings & enjoy.
