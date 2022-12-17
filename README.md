@@ -1,4 +1,7 @@
 # HUANANZHI X99-TF GAMING
+<a href="https://ko-fi.com/iengineer">
+ <img src="https://github.com/BIOS-iEngineer/PNG/blob/main/ko-fi.jpeg" alt="Support Me on Ko-fi"/>
+ </a>
 
 * ### BIOS updates will be no longer be released for this motherboard.
 
